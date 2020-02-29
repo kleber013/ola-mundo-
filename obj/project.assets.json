@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\etec ab\\ola mundo\\ola mundo.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\etec ab\\ola mundo\\ola-mundo-\\ola mundo.csproj",
       "projectName": "ola mundo",
-      "projectPath": "C:\\Users\\User\\Documents\\etec ab\\ola mundo\\ola mundo.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\etec ab\\ola mundo\\ola-mundo-\\ola mundo.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\etec ab\\ola mundo\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\etec ab\\ola mundo\\ola-mundo-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
